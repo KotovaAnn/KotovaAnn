@@ -18,7 +18,10 @@
 🤖 Кодить закрытыми глазами  
 🎯 Освоить несколько фрейверков  
 🚀 Разработать что-то свое интересное и крутое  
-
+  
+Напишите мне:  
+  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/toksy)  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
