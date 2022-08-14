@@ -21,8 +21,8 @@
   
 Напишите мне:  
   
-[<img src='https://kpdplast.ru/ssl/u/1c/24fe12684011ebbbcac910b9ba4a81/-/vk_parketservice.jpg' alt='vk' height='40' style="color: #018acd;">](https://vk.com/toksy) [<img src='https://img.shields.io/badge/-merpri%40mail.ru-red' alt='email' height='40'>](mailto:merpri@mail.ru) [<img src='https://static.tildacdn.com/tild3665-3932-4664-a366-326633326337/telegram.png' height='40' alt='Телеграм'>](https://t.me/KotovaAnn)  
-  
+[<img src='https://kpdplast.ru/ssl/u/1c/24fe12684011ebbbcac910b9ba4a81/-/vk_parketservice.jpg' alt='vk' height='28' style="color: #018acd;">](https://vk.com/toksy) [<img src='https://img.shields.io/badge/-merpri%40mail.ru-red' alt='email' height='28'>](mailto:merpri@mail.ru) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KotovaAnn)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
