@@ -19,6 +19,14 @@
 🎯 Освоить несколько фреймворков  
 🚀 Разработать что-то свое интересное и крутое  
   
+Мои работы:  
+  
+[![How_to_learn](https://img.shields.io/badge/-How%20to%20learn-blueviolet)](https://github.com/KotovaAnn/how-to-learn)
+[![Russian_travel](https://img.shields.io/badge/-Russian%20travel-informational)](https://github.com/KotovaAnn/russian-travel)
+[![Mesto](https://img.shields.io/badge/-Mesto-ff69b4)](https://github.com/KotovaAnn/mesto)
+[![Mesto_React](https://img.shields.io/badge/-Mesto%20React-brightgreen)](https://github.com/KotovaAnn/mesto-react)
+[![Mesto_React_authorization](https://img.shields.io/badge/-Mesto%20React-orange)](https://github.com/KotovaAnn/react-mesto-auth)
+  
 Напишите мне:  
   
 [<img src='https://kpdplast.ru/ssl/u/1c/24fe12684011ebbbcac910b9ba4a81/-/vk_parketservice.jpg' alt='vk' height='28' style="color: #018acd;">](https://vk.com/toksy) [<img src='https://img.shields.io/badge/-merpri%40mail.ru-red' alt='email' height='28'>](mailto:merpri@mail.ru) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KotovaAnn)  
