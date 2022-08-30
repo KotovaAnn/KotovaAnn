@@ -25,7 +25,7 @@
 [![Russian_travel](https://img.shields.io/badge/-Russian%20travel-informational)](https://github.com/KotovaAnn/russian-travel)
 [![Mesto](https://img.shields.io/badge/-Mesto-ff69b4)](https://github.com/KotovaAnn/mesto)
 [![Mesto_React](https://img.shields.io/badge/-Mesto%20React-brightgreen)](https://github.com/KotovaAnn/mesto-react)
-[![Mesto_React_authorization](https://img.shields.io/badge/-Mesto%20React-orange)](https://github.com/KotovaAnn/react-mesto-auth)
+[![Mesto_React_authorization](https://img.shields.io/badge/-Mesto%20React%20Auth-orange)](https://github.com/KotovaAnn/react-mesto-auth)
   
 Напишите мне:  
   
